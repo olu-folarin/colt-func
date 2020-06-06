@@ -202,3 +202,5 @@ btn.addEventListener('click', clicker);
 setTimeout(function() {
   alert('nice to have you back.');
 }, 4000);
+
+//hositing treated
